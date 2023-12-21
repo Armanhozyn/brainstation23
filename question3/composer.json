@@ -1,0 +1,17 @@
+{
+    "name": "vendor/ques",
+    "autoload": {
+        "psr-4": {
+            "Vendor\\Ques\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Armanhozyn",
+            "email": "armanhossen591@gmail.com"
+        }
+    ],
+    "require": {
+        "slim/slim": "4.*"
+    }
+}
