@@ -1,0 +1,3 @@
+I have made a sql file for RDMS where you can add product on products table where products table have foreign id for category table so that we can join products and categories together.
+
+Then we have orders table where order will be taken from from user. Then we have order_items table where "order_id" will be foriegn id so that we can join order and order_items together.
